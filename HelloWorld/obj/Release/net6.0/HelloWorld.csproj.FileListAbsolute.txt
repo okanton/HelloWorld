@@ -1,0 +1,15 @@
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\HelloWorld.exe
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\HelloWorld.deps.json
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\HelloWorld.runtimeconfig.json
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\HelloWorld.dll
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\ref\HelloWorld.dll
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\bin\Release\net6.0\HelloWorld.pdb
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.dll
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\ref\HelloWorld.dll
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.pdb
+C:\Projects\DockerCourse\HelloWorld\HelloWorld\obj\Release\net6.0\HelloWorld.genruntimeconfig.cache

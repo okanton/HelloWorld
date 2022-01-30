@@ -1,0 +1,5 @@
+C:\New folder\HelloWorld.exe
+C:\New folder\HelloWorld.dll
+C:\New folder\HelloWorld.deps.json
+C:\New folder\HelloWorld.runtimeconfig.json
+C:\New folder\HelloWorld.pdb
