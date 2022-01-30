@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2EJAQ/JYNy98nVf2uIQsnKA/fjjHaxmwPDyXL6V1ZuUmVpV1Bg4O1kF2N37zNfmNV+NRgIFYF1yeeHlEhvmFw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\DockerCourse\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Splinter\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
